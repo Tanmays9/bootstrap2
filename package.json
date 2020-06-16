@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap2re",
+  "version": "1.0.0",
+  "description": "Remake of bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanmays9/bootstrap2.git"
+  },
+  "author": "Tanmay Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanmays9/bootstrap2/issues"
+  },
+  "homepage": "https://github.com/Tanmays9/bootstrap2#readme"
+}
